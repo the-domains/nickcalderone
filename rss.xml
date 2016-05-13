@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NickCalderone]]></title>
+        <description><![CDATA[NickCalderone]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 May 2016 18:35:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5 Reasons Your Blog Needs an App - TechiNews24.com]]></title>
+            <description><![CDATA[<article><h1>5 Reasons Your Blog Needs an App - TechiNews24.com</h1><p>In the recent years, mobile apps have gained an upper hand over web browsers both in terms of screen time and revenue. Mobile apps are changing the way we shop, share, search and read. More and more readers are switching to apps for quenching their reading pangs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a3e341feebb45f0677a0f5067b3d2868c060f4e.jpg"></article>]]></description>
+            <link>http://techinews24.com/5-reasons-your-blog-needs-an-app/</link>
+            <guid isPermaLink="false">e2a207db-e1f4-47a7-af4c-f4d8ae41cab7</guid>
+            <pubDate>Fri, 13 May 2016 18:35:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
