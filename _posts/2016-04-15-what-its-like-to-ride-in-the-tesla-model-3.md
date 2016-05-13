@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-13T18:35:30.321Z'
+datePublished: '2016-05-13T19:59:14.022Z'
 sourcePath: _posts/2016-04-15-what-its-like-to-ride-in-the-tesla-model-3.md
 inFeed: true
 isBasedOnUrl: 'http://mashable.com/2016/04/01/tesla-model-3-first-ride/#GmuWjVf0GZqo'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-13T18:35:29.812Z'
+dateModified: '2016-05-13T19:59:13.495Z'
 title: "What it's like to ride in the Tesla Model 3"
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
 description: "HAWTHORNE, California - I've had a terrible flu all week. My body aches, my head is pounding, and my throat feels like it might fall out of my neck. Right now, though, I'm riding in the Tesla Model 3, one of the most hotly anticipated cars in the world..."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
